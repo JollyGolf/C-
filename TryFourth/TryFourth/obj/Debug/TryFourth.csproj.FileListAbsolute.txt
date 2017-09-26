@@ -1,0 +1,8 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\obj\Debug\TryFourth.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\obj\Debug\TryFourth.MainForm.resources
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\obj\Debug\TryFourth.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\bin\Debug\TryFourth.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\bin\Debug\TryFourth.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\bin\Debug\TryFourth.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\obj\Debug\TryFourth.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFourth\TryFourth\obj\Debug\TryFourth.pdb

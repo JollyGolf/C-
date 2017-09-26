@@ -1,0 +1,8 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\obj\Debug\TryTwo.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\obj\Debug\TryTwo.MainForm.resources
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\obj\Debug\TryTwo.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\bin\Debug\TryTwo.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\bin\Debug\TryTwo.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\bin\Debug\TryTwo.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\obj\Debug\TryTwo.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryTwo\TryTwo\obj\Debug\TryTwo.pdb

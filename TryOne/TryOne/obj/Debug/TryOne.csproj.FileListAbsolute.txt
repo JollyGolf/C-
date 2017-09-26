@@ -1,0 +1,8 @@
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\bin\Debug\TryOne.exe.config
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\bin\Debug\TryOne.exe
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\bin\Debug\TryOne.pdb
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\obj\Debug\TryOne.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\obj\Debug\TryOne.MainForm.resources
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\obj\Debug\TryOne.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\obj\Debug\TryOne.exe
+C:\Users\Никита\Desktop\MediaContent\C#\TryOne\TryOne\obj\Debug\TryOne.pdb
