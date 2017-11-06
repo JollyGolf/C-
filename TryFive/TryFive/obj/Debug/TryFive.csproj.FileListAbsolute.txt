@@ -1,0 +1,8 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\obj\Debug\TryFive.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\obj\Debug\TryFive.MainForm.resources
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\obj\Debug\TryFive.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\bin\Debug\TryFive.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\bin\Debug\TryFive.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\bin\Debug\TryFive.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\obj\Debug\TryFive.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TryFive\TryFive\obj\Debug\TryFive.pdb

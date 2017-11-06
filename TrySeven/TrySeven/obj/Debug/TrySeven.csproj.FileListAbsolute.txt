@@ -1,0 +1,8 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\bin\Debug\TrySeven.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\bin\Debug\TrySeven.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\bin\Debug\TrySeven.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\obj\Debug\TrySeven.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\obj\Debug\TrySeven.MainForm.resources
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\obj\Debug\TrySeven.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\obj\Debug\TrySeven.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySeven\TrySeven\obj\Debug\TrySeven.pdb

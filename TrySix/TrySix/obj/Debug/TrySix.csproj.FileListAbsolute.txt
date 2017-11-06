@@ -1,0 +1,8 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\bin\Debug\TrySix.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\bin\Debug\TrySix.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\bin\Debug\TrySix.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\obj\Debug\TrySix.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\obj\Debug\TrySix.MainForm.resources
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\obj\Debug\TrySix.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\obj\Debug\TrySix.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\TrySix\TrySix\obj\Debug\TrySix.pdb
