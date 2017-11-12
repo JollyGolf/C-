@@ -1,0 +1,6 @@
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\obj\Debug\l9.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\bin\Debug\l9.exe.config
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\bin\Debug\l9.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\bin\Debug\l9.pdb
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\obj\Debug\l9.exe
+C:\Users\Никита\Documents\SharpDevelop Projects\l9\l9\obj\Debug\l9.pdb
